@@ -1,0 +1,3 @@
+/Users/francoisdevove/ClionProjects/FaceDetect/CMakeFiles/rebuild_cache.dir
+/Users/francoisdevove/ClionProjects/FaceDetect/CMakeFiles/edit_cache.dir
+/Users/francoisdevove/ClionProjects/FaceDetect/CMakeFiles/FaceDetect.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francoisdevove/ClionProjects/FaceDetect/main.cpp
+iostream
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui.hpp
+/Users/francoisdevove/ClionProjects/FaceDetect/opencv2/highgui.hpp
+
